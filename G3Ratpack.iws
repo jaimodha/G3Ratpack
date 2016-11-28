@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22b03ecd-8d9e-4070-807d-282a1e85f623" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/G3Ratpack.iws" afterPath="$PROJECT_DIR$/G3Ratpack.iws" />
-    </list>
+    <list default="true" id="22b03ecd-8d9e-4070-807d-282a1e85f623" name="Default" comment="" />
     <ignored path="G3Ratpack.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -623,12 +620,12 @@
       <updated>1480362989995</updated>
       <workItem from="1480362990473" duration="1124000" />
       <workItem from="1480364263254" duration="3465000" />
-      <workItem from="1480367868021" duration="3253000" />
+      <workItem from="1480367868021" duration="3293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7842000" />
+    <option name="totallyTimeSpent" value="7882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="807" extended-state="6" />
